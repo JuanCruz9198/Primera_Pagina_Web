@@ -1,0 +1,67 @@
+h1{
+	color:red;
+}
+b:hover {
+	color: red;
+}
+
+.contact-form__h2{
+	font-size: 5em;
+	font-family: 'Lobster', cursive;
+	line-height: 2;
+	font-weight: 500;
+	color:red;
+}
+
+.contact-form__input:first-child {
+	color:red;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/*h2{
+	background-color: red;
+	display: inline-block;
+	padding:10px 50px;
+	text-align: center;
+	matgin:20px 10px;
+	border-radius: 2em;
+	border: 5px solid #a22;
+	height: 300px;
+	width: 300px;
+	box-sizing: border-box;
+	box-shadow:1px 4px 15px 0 #000;
+	transform: rotate(45deg);
+}*/
+.caja1 {
+	width: 200px;
+	height:200px;
+	background:red;
+	margin:auto;
+	outline:10px solid blue;
+	box-sizing: content-box;
+}
+.caja2 {
+	width: 200px;
+	height: 200px;
+	background:yellow;
+	margin:auto;
+}
+
+.caja3{
+	width: 200px;
+	height: 200px;
+	background:green;
+	margin: auto; 
+}
+
+.caja4{
+	width: 200px;
+	height: 200px;
+	background:blue;
+	margin: auto;
+}
